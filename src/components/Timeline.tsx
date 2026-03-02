@@ -28,9 +28,9 @@ function Timeline() {
               WOWBLY TECHNOLOGIES
             </h4>
 
-            <h5 className="vertical-timeline-element-subtitle">
+            <h4 className="vertical-timeline-element-subtitle">
               Faisalabad, Pakistan
-            </h5>
+            </h4>
 
             <p>
               Built and maintained CI/CD pipelines using GitHub Actions.
